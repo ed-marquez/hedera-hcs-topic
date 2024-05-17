@@ -34,7 +34,7 @@ This repository provides an example of:
 
 1. **Generate EVM Address and Keys:**
 
-   Run the `key_evm_generator.js` script to generate a new set of ECDSA keys and associated EVM address.
+   Run the `key_evm_generator.js` script to generate a new mnemonic seed phrase, ECDSA key pair, and EVM address.
 
    ```bash
    node key_evm_generator.js
