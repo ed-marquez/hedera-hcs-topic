@@ -27,7 +27,7 @@ async function main() {
 		console.log(`- New private key (DER Encoded): ${newPrivateKey} \n`);
 		console.log(`- New public key (DER Encoded): ${newPublicKey} \n`);
 		console.log(`- New EVM Address: 0x${newEvmAddress} \n`);
-		console.log(`- New account alias: ${newAccountAlias} \n`);
+		// console.log(`- New account alias: ${newAccountAlias} \n`);
 		// console.log(`- New private key (RAW): 0x${newPrivateKey.toStringRaw()} \n`);
 		// console.log(`- New public key (RAW): 0x${newPublicKey.toStringRaw()} \n`);
 		console.log(`============================================================ \n`);
